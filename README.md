@@ -2,7 +2,7 @@
 
 <div>
   
-  <h6>Hail guys!</h6>
+  <p>Hail guys!</p>
   <p>I'm here to code my jobs and develop my skill, if you liked some codes or have any doubts, send me a message on Instagram @dmprestes, will be a pleasure share it with you.</p>
 
   <ul>
