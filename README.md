@@ -1,11 +1,12 @@
 ### What's up, Pwn3ed here! 👋
 
-
 - 🔭 I’m currently looking for work in Javascript/Typescript.
 - 🌱 I’m currently learning React Native for mobile.
 - 👯 I’m looking to collaborate in Javascript and Python.
-- 🤔 I’m looking for help with React Native.
+- 🤔 I’m looking for help with jobs.
 - 💬 Ask me about anything.
 - 📫 How to reach me: E-mail: diegoprestes99@hotmail.com and Instagram: [@dmprestes](http://instagram.com/dmprestes)
 - 😄 Pronouns: Yo!
 - ⚡ Fun fact: Parkour/Calisthenic athlete.
+
+- Hail bro, nice to meet you, i'm here to code my jobs and develop my skill, if you liked some codes or have any doubts, send me a message on Instagram @dmprestes, will be a pleasure share it with you.
