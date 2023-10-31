@@ -1,3 +1,16 @@
+.title {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
 
 <div>
   <p class="title">What's up, Pwn3ed here! 👋</p>
@@ -16,17 +29,3 @@
   
 </div>
 
-
-.title {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
