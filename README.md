@@ -1,5 +1,7 @@
 ### What's up, Pwn3ed here! 👋
 
+Hail guys! I'm here to code my jobs and develop my skill, if you liked some codes or have any doubts, send me a message on Instagram @dmprestes, will be a pleasure share it with you.
+
 - 🔭 I’m currently looking for work in Javascript/Typescript.
 - 🌱 I’m currently learning React Native for mobile.
 - 👯 I’m looking to collaborate in Javascript and Python.
@@ -9,4 +11,3 @@
 - 😄 Pronouns: Yo!
 - ⚡ Fun fact: Parkour/Calisthenic athlete.
 
-- Hail bro, nice to meet you, i'm here to code my jobs and develop my skill, if you liked some codes or have any doubts, send me a message on Instagram @dmprestes, will be a pleasure share it with you.
