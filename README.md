@@ -1,6 +1,6 @@
-### What's up, Pwn3ed here! 👋 ###
+
 <div>
-  
+  <label>What's up, Pwn3ed here! 👋</label>
   <p>Hail guys! I'm here to code my jobs and develop my skill, if you liked some codes or have any doubts, send me a message on Instagram @dmprestes, will be a pleasure share it with you.</p>
 
   <ul>
@@ -15,3 +15,18 @@
   </ul>
   
 </div>
+
+
+.title {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
