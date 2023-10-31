@@ -1,7 +1,7 @@
+  ### What's up, Pwn3ed here! 👋 ###
 
 <div>
-  <p>What's up, Pwn3ed here! 👋</p>
-  <p>Hail guys! I'm here to code my jobs and develop my skill, if you liked some codes or have any doubts, send me a message on Instagram @dmprestes, will be a pleasure share it with you.</p>
+  <p style="font-size: 20px;">Hail guys! I'm here to code my jobs and develop my skill, if you liked some codes or have any doubts, send me a message on Instagram @dmprestes, will be a pleasure share it with you.</p>
 
   <ul>
     <li>🔭 I’m currently looking for work in Javascript/Typescript.</li>
