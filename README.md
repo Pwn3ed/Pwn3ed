@@ -9,7 +9,7 @@
     <li>👯 I’m looking to collaborate in Javascript and Python.</li>
     <li>🤔 I’m looking for help with jobs.</li>
     <li>💬 Ask me about anything.</li>
-    <li>📫 How to reach me: E-mail: diegoprestes99@hotmail.com and Instagram: <a href="instagram.com/dmprestes">@dmprestes</a></li>
+    <li>📫 How to reach me: E-mail: diegoprestes99@hotmail.com and Instagram: <a href="https://www.instagram.com/dmprestes">@dmprestes</a></li>
     <li>😄 Pronouns: Yo!</li>
     <li>⚡ Fun fact: Parkour/Calisthenic athlete.</li>
   </ul>
