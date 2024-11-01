@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pwn3ed/pwn3ed/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/pwn3ed/pwn3ed/blob/output/github-contribution-grid-snake.gif)
 
 ###
