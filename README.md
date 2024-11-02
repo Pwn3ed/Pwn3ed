@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/pwn3ed/pwn3ed/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Pwn3ed/Pwn3ed/blob/output/snake.svg)
 
 ###
