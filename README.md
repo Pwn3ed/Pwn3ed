@@ -1,4 +1,4 @@
-<h2 align="center">Diego Michel Prestes - Software Engineer</h2>
+<h2 align="left">Diego Michel Prestes - Software Engineer</h2>
 
 ###
 
