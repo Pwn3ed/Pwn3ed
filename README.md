@@ -31,14 +31,6 @@
 
 ###
 
-<img align="left" height="70" src="https://i.gifer.com/NiT5.gif"  />
-
-###
-
-<img align="right" height="70" src="https://i.gifer.com/NiT5.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/pwn3ed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
