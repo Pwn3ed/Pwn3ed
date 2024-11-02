@@ -51,8 +51,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/pwn3ed/pwn3ed/output/snake.svg" alt="Snake animation" />
 
 ###
