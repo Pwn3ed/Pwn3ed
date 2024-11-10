@@ -40,21 +40,21 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-**Mobile**
+**<h3>Mobile</h3>**
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-**Back End**
+**<h3>Back End</h3>**
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
-**Database**
+**<h3>Database</h3>**
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utils**
+**<h3>Utils</h3>**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**DevOps**
+**<h3>DevOps</h3>**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -62,7 +62,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-**Ferramentas de desenvolvimento**
+**<h3>Ferramentas de desenvolvimento</h3>**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
