@@ -31,31 +31,33 @@
 <div>
 
   **<h3>Programming Languages</h3>**
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
   **<h3>Back End</h3>**
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  
-  
+  ![Node.JS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.JS)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+  ![a](https://img.shields.io/badge/-a-333333?style=flat&logo=a.js)
   
   **<h3>Front End</h3>**
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![NestJS](https://img.shields.io/badge/-nestjs-333333?style=flat&logo=nestjs)
   
   **<h3>Database</h3>**
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
   **<h3>Utils</h3>**
-  
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
 </div>
 ### 
