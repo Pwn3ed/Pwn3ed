@@ -39,7 +39,7 @@
 
   **<h3>Back End</h3>**
   ![Node.JS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.JS)
-  ![NestJS](https://img.shields.io/badge/-nestjs-333333?style=flat&logo=nestjs)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![RESTFul ](https://img.shields.io/badge/-RESTFul-333333?style=flat&logo=solid)
   ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=solid)
@@ -47,12 +47,14 @@
   **<h3>Front End</h3>**
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
+  
   **<h3>Database</h3>**
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
   **<h3>Utils</h3>**
