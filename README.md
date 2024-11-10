@@ -42,6 +42,14 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+**Front End**
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
+
+**Back End
+
+**Database**
+
+
 **Utils**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
