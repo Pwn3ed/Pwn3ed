@@ -26,9 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pwn3ed&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-<div>
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div>
 
 **Stacks**
 
