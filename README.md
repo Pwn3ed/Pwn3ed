@@ -26,6 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pwn3ed&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
+<div>
+  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 **Stacks**
@@ -71,6 +73,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
+</div>
 ### 
 
 <img src="https://raw.githubusercontent.com/pwn3ed/pwn3ed/output/snake.svg" alt="Snake animation" />
