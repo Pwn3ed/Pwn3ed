@@ -38,7 +38,7 @@
 
   **<h3>Back End</h3>**
   ![Node.JS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.JS)
-  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+  ![NestJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nestjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![RESTFul ](https://img.shields.io/badge/-RESTFul-333333?style=flat&logo=solid)
   ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=solid)
