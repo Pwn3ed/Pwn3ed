@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   
 </div>
-<h2 align="left">Diego Michel Prestes @Pwn3ed - Software Engineer</h2>
+<h2 align="left">Diego Michel Prestes - Software Engineer</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pwn3ed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false" height="150" alt="languages graph"  />
