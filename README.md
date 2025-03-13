@@ -3,7 +3,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
@@ -16,8 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  
 </div>
-<h2 align="left">Diego Michel Prestes - Software Engineer</h2>
+<h2 align="left">Diego Michel Prestes @Pwn3ed - Software Engineer</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pwn3ed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false" height="150" alt="languages graph"  />
@@ -32,24 +33,28 @@
   **<h3>Programming Languages</h3>**
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=openjdk)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
   **<h3>Back End</h3>**
   ![Node.JS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.JS)
-  ![NestJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nestjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![RESTFul ](https://img.shields.io/badge/-RESTFul-333333?style=flat&logo=solid)
+  ![RESTFul](https://img.shields.io/badge/-RESTFul-333333?style=flat&logo=solid)
   ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=solid)
   
-  **<h3>Front End</h3>**
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-333333?style=flat&logo=tailwindcss)
+  **<h3>Web</h3>**
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-333333?style=flat&logo=tailwindcss)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   
+  **<h3>Mobile</h3>**
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=jetpackcompose)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
   
   **<h3>Database</h3>**
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
