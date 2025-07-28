@@ -21,8 +21,10 @@
 <h2 align="left">Diego Michel Prestes - Software Engineer</h2>
 
 <div align="left">
-  <img src="https://git-hub-streak-stats.vercel.app?user=Pwn3ed&theme=moltack&card_width=100" heigh="150" alt="GitHub Streak" />
+  <img src="https://git-hub-streak-stats.vercel.app?user=Pwn3ed&theme=moltack&card_width=400" heigh="150" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pwn3ed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false" height="150" alt="languages graph"  />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=pwn3ed&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
