@@ -21,12 +21,19 @@
 <h2 align="left">Diego Michel Prestes - Software Engineer</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pwn3ed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pwn3ed&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+  ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Pwn3ed&theme=%7B%22backgroundColor%22%3A%22%23451a03%22%2C%22textColor%22%3A%22%23fef3c7%22%2C%22accentColor%22%3A%22%23f59e0b%22%2C%22borderColor%22%3A%22%2392400e%22%2C%22waterColor%22%3A%22%23f59e0b%22%2C%22streakColor%22%3A%22%23dc2626%22%7D)
+  
 </div>
 
+
+
 <br><br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+</div>
+
 
 <div>
 
@@ -74,9 +81,7 @@
 
 <br>
 
-<div align="left">
-  <img src="https://git-hub-streak-stats.vercel.app?user=Pwn3ed&theme=moltack&card_width=400" heigh="150" alt="GitHub Streak"/>
-</div>
+
 
 <br>
 
